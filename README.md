@@ -2,14 +2,16 @@
 
 ## Integrantes
 
-* Giovana Souza Vieira – RM XXXXX
-* (Adicionar demais integrantes)
+* Giovana Souza Vieira – RM 564430
+* Beatriz Franco - RM 563686
+* Maria Fernanda Santos RM 565277
+* Natan Freitas De Moraes RM 564992
 
 ---
 
 # Sobre o Projeto
 
-O Orbital Health Monitor é uma API REST desenvolvida em Java com Spring Boot para monitoramento remoto da saúde de pessoas em regiões vulneráveis, rurais ou afetadas por eventos extremos.
+O Orbital Health Monitor é uma API REST desenvolvida em Java com Spring Boot para monitoramento remoto da saúde de pessoas em ambientes extremos, astronautas em missões espaciais, rurais ou afetadas por eventos extremos.
 
 A solução permite o cadastro de pessoas monitoradas, registro de indicadores clínicos, controle de medicamentos, gerenciamento de alertas de risco e autenticação segura utilizando JWT.
 
